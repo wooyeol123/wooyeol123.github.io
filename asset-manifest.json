@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.08da0669.chunk.js",
+    "main.js.map": "/static/js/main.08da0669.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.8e283c92.js",
+    "runtime~main.js.map": "/static/js/runtime~main.8e283c92.js.map",
+    "static/js/2.fc152c3e.chunk.js": "/static/js/2.fc152c3e.chunk.js",
+    "static/js/2.fc152c3e.chunk.js.map": "/static/js/2.fc152c3e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1fb427fe8b2acd9e4c845ddb75a27f1e.js": "/precache-manifest.1fb427fe8b2acd9e4c845ddb75a27f1e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/coding.jpg": "/static/media/coding.ed0debef.jpg",
+    "static/media/endoftheworld.jpg": "/static/media/endoftheworld.8070acee.jpg",
+    "static/media/guessmind.jpg": "/static/media/guessmind.c35a64d9.jpg",
+    "static/media/icon.gif": "/static/media/icon.ff100ba3.gif",
+    "static/media/kakao.jpg": "/static/media/kakao.60cf3dcf.jpg",
+    "static/media/me.jpg": "/static/media/me.8da119df.jpg",
+    "static/media/mybluejay.jpg": "/static/media/mybluejay.ff29b8b9.jpg",
+    "static/media/nomflix.jpg": "/static/media/nomflix.0d0940be.jpg",
+    "static/media/santiago.jpg": "/static/media/santiago.1955f389.jpg",
+    "static/media/star.jpg": "/static/media/star.46b4c7ce.jpg",
+    "static/media/thinkful.jpg": "/static/media/thinkful.34da846d.jpg",
+    "static/media/wetube.jpg": "/static/media/wetube.24c2b030.jpg"
+  }
+}
