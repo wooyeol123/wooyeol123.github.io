@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c467517ee45acc4bf94f21e800436ad7",
+    "revision": "68a1f16a1efbe08011f0eb7149574aee",
     "url": "/index.html"
   },
   {
-    "revision": "e8750f88b2c096f946ca",
-    "url": "/static/js/2.7ab38bfa.chunk.js"
+    "revision": "25f88eb1f68443d720b4",
+    "url": "/static/js/2.fc152c3e.chunk.js"
   },
   {
-    "revision": "3949ea9ba182b3369bb7",
-    "url": "/static/js/main.6ccf6771.chunk.js"
+    "revision": "b1115f03b18888c99371",
+    "url": "/static/js/main.604bce7e.chunk.js"
   },
   {
     "revision": "60b1462a467b934acd36",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0d0940be9f9d652ada08ad37ec14b4f9",
     "url": "/static/media/nomflix.0d0940be.jpg"
-  },
-  {
-    "revision": "1955f389e86591c376727512cdf4843c",
-    "url": "/static/media/santiago.1955f389.jpg"
   },
   {
     "revision": "da3c9539330a32edaaa617df143f1c35",
