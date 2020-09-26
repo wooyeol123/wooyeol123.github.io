@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.48d0dd27.chunk.js",
-    "main.js.map": "/static/js/main.48d0dd27.chunk.js.map",
+    "main.js": "/static/js/main.a4a52689.chunk.js",
+    "main.js.map": "/static/js/main.a4a52689.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.8e283c92.js",
     "runtime~main.js.map": "/static/js/runtime~main.8e283c92.js.map",
     "static/js/2.fc152c3e.chunk.js": "/static/js/2.fc152c3e.chunk.js",
     "static/js/2.fc152c3e.chunk.js.map": "/static/js/2.fc152c3e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6e7e01beeba8092d657afc4557777baa.js": "/precache-manifest.6e7e01beeba8092d657afc4557777baa.js",
+    "precache-manifest.1be1631c8f023006b0e83daca9706c54.js": "/precache-manifest.1be1631c8f023006b0e83daca9706c54.js",
     "service-worker.js": "/service-worker.js",
     "static/media/coding.jpg": "/static/media/coding.ed0debef.jpg",
     "static/media/endoftheworld.jpg": "/static/media/endoftheworld.8070acee.jpg",
@@ -18,7 +18,7 @@
     "static/media/mybluejay.jpg": "/static/media/mybluejay.ff29b8b9.jpg",
     "static/media/nomflix.jpg": "/static/media/nomflix.0d0940be.jpg",
     "static/media/santiago.jpg": "/static/media/santiago.1955f389.jpg",
-    "static/media/star.jpg": "/static/media/star.46b4c7ce.jpg",
+    "static/media/star.jpg": "/static/media/star.da3c9539.jpg",
     "static/media/thinkful.jpg": "/static/media/thinkful.34da846d.jpg",
     "static/media/wetube.jpg": "/static/media/wetube.24c2b030.jpg"
   }
