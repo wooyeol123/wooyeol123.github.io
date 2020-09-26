@@ -110,7 +110,7 @@ export default ({ image, loading }) => (
   <Container>
     {loading ? <Loader /> : null}
     <BackGround image={loading ? null : image.src} />
-    <Title>발전을 즐기는 개발자 강기석의 포트폴리오</Title>
-    <ChangingTitle>환영합니다!</ChangingTitle>
+    <Title>発展を楽しむ開発者のポートフォリオ</Title>
+    <ChangingTitle>キムウヨル</ChangingTitle>
   </Container>
 );
